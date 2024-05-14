@@ -4,7 +4,6 @@ A new Flutter project.
 
 
 ![Снимок экрана 2024-05-14 141039](https://github.com/yerdboy/flutter_topic6/assets/144227156/074fbfe4-63da-44f1-9156-ef71071bfdbd)
-![Снимок экрана 2024-05-14 141039](https://github.com/yerdboy/flutter_topic6/assets/144227156/01ee8f80-81a6-4682-8717-0b05b97828ef)
 
 ## Getting Started
 
