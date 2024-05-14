@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smth/pages/register_form_page.dart';
+import 'package:videohomwrk/pages/register_form_page.dart';
 
 void main() {
   runApp(const MyApp());

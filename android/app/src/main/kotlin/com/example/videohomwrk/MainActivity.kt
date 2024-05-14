@@ -1,4 +1,4 @@
-package com.example.fluttervideohomework
+package com.example.videohomwrk
 
 import io.flutter.embedding.android.FlutterActivity
 
